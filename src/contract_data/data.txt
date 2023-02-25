@@ -1,0 +1,27 @@
+Deploying 'PixelDapp'
+   ---------------------
+   > transaction hash:    0x70da3be829083787814abbba8e189003b515d27c5bb83559a9de1fe2456c32d1
+   > Blocks: 1            Seconds: 5
+   > contract address:    0x548Ec8dCc41B698594a93731D3E9308839654826
+   > block number:        6524564
+   > block timestamp:     1647096095
+   > account:             0x24986ef62Efa9f3323CB6B078A2dbBF379f7F35D
+   > balance:             6.209309924956183542
+   > gas used:            1187427 (0x121e63)
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.01187427 ETH
+
+   Pausing for 2 confirmations...
+
+   -------------------------------
+   > confirmation number: 1 (block: 6524565)
+   > confirmation number: 2 (block: 6524566)
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.01187427 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.01187427 ETH
